@@ -5,7 +5,6 @@ nmap -sC -sV {IPAddress}
 
 This will reveal two open ports: 
 
-![Alt text] (~/CTFs/thm/cyborg_ports.png)
 
 2. Using the information from the previous problem, we find that port 22 is running SSH
 
