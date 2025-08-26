@@ -1,5 +1,7 @@
 1. Run 
-'''nmap -sC -sV {IPAddress}'''
+'''
+nmap -sC -sV {IPAddress}
+'''
 
 This will reveal two open ports: port 22 & port 80.
 
